@@ -1,0 +1,22 @@
+```gitignore
+# Dataset files
+data/*.csv
+data/*.xlsx
+data/*.xls
+
+# Temporary files
+*.tmp
+*.log
+
+# Backup files
+*.bak
+*.old
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
+```
